@@ -54,5 +54,5 @@
 
 ## 開発者・連絡先について
 - **名前**: 野村佑哉  
-  **GitHub**: [Noyu-0723](https://github.com/Noyu-0723)  
-  **Email**: yuuya07237@gmail.com
+- **GitHub**: [Noyu-0723](https://github.com/Noyu-0723)  
+- **Email**: yuuya07237@gmail.com
